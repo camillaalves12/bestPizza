@@ -10,8 +10,8 @@ export function OrderSummary() {
 
   return (
     <div className="w-1/2 self-start rounded-lg border p-6">
-      <h2 className="m-8 flex items-center gap-2 text-xl font-semibold">
-        <ShoppingCart />
+      <h2 className="mb-8 flex items-center gap-2 font-semibold">
+        <ShoppingCart size={20} />
         Resumo do Pedido
       </h2>
 
