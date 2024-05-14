@@ -3,7 +3,7 @@
 ## Esse App é um projeto que simula um processo de compras de pizzas. Ele possui cardápio, carrinho, endereço de entrega e todo o processo de pagamento, incluindo a validação de cratões de créditos. 
 
 <div>
-  <img align="center" alt="Js" height="30" width="40" src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)">
+  <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
