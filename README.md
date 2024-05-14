@@ -8,7 +8,9 @@
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  </div>
 
-
+<kbd>
+  <p>Seção com borda</p>
+</kbd>
 
 
 ## Getting Started
